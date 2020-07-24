@@ -13,9 +13,16 @@
  - 创建数据库wechat
  - 使用Navicat或其他MySQL可视化工具运行database路径下的SQL文件
 
-Java仿QQ服务端(qq-server)参见：（待发布...）
-
+### 环境准备
+下载一个JavaFX scene Builder，获取[链接](https://pan.baidu.com/s/1b__UVMt82zYK9MrwypTvgQ)
+提取码：hd4j。将JavaFX配置到idea中(具体操作自己查找)
 ### 项目运行
+QQ服务端地址：
+```
+https://github.com/CooliHe/qq-server
+```
+**Tips：** 在Model.database下配置自己的数据库信息。 短信服务的话，想要就去买一个，不想要可直接打印在控制台。
+将jar包导入(都放在了jar文件夹)。
+把项目克隆到本地部署,直接主程序Main即可。
 
-把项目克隆到本地,直接主程序Main即可。
-
+详情访问博客：[java版仿QQ聊天](https://www.coolive.top/archives/java_qq.html)
